@@ -1,4 +1,4 @@
-## HELLLO, I AM SHINCHAN
+## HELLO, I AM SHINCHAN
 
 ---
 
