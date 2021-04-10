@@ -32,7 +32,10 @@
     <a href="https://discord.com/api/oauth2/authorize?client_id=830476826413498478&permissions=8&scope=bot%20applications.commands">
 
    <img src="https://media.discordapp.net/attachments/800639249334140969/829344825185796116/2-2.png?width=396&height=396" alt="Memer Api" width="80"/>
-
+ 
+   </a>
+   <a href="https://memer-api.js.org">
+   <img src="https://authy.com/wp-content/uploads/npm-logo.png" alt="npm package" width="80"/>
    </a>
    <a href="https://discord.gg/fdF3HcJ">
     <img src="https://www.freepnglogos.com/uploads/discord-logo-png/seven-kingdoms-9.png" alt="Discord" width="80"/>
