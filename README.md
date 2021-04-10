@@ -18,13 +18,13 @@
 ## My Projects 
 <p align="center">
 
-<a href="https://discordbotlist.com/bots/aztex">
+<a href="https://discord.com/oauth2/authorize?client_id=687257316151656485&permissions=8&scope=bot">
 
    <img src="https://media.discordapp.net/attachments/800639249334140969/830319603368329246/a3c91838a805920c7e843e8449532295.png?width=396&height=396" alt="Aztex Bot" width="80"/>
 
    </a>
    
- <a href="https://top.gg/bot/677196440296095773">
+ <a href="https://discord.com/oauth2/authorize?client_id=677196440296095773&permissions=8&scope=bot">
 
    <img src="https://media.discordapp.net/attachments/800639249334140969/830319173577080862/20210313_170823.jpg?width=396&height=396" alt="Vibe Bot" width="80"/>
 
@@ -34,7 +34,7 @@
    <img src="https://media.discordapp.net/attachments/800639249334140969/829344825185796116/2-2.png?width=396&height=396" alt="Memer Api" width="80"/>
  
    </a>
-   <a href="https://memer-api.js.org">
+   <a href="https://www.npmjs.com/package/memer-api">
    <img src="https://authy.com/wp-content/uploads/npm-logo.png" alt="npm package" width="80"/>
    </a>
    <a href="https://discord.gg/fdF3HcJ">
