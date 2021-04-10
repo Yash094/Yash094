@@ -40,6 +40,16 @@
 
 ---
 
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shinchanOP&show_icons=true&hide=stars&count_private=true&theme=blue-green" align="center" /></div>  
+
+<br/>  
+<div align="center">
+<p><a href="https://github.com/shinchanOP"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinchanOP&theme=blue-green" alt="Top Langs"></a></p></div>  
+
+---
+
+
 ## My Projects  
 
 <div align="center">
@@ -52,12 +62,6 @@
 <a href="https://github.com/shinchanOP/Slash-cmd-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shinchanOP&repo=Slash-cmd-bot" alt="lash-cmd-bot" /></a>
 
 </div>  
+
 ---
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shinchanOP&show_icons=true&hide=stars&count_private=true&theme=blue-green" align="center" /></div>  
-
-<br/>  
-<div align="center">
-<p><a href="https://github.com/shinchanOP"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinchanOP&theme=blue-green" alt="Top Langs"></a></p></div>  
-
 
