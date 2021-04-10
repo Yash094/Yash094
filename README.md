@@ -45,7 +45,7 @@
 
 <br/>  
 <div align="center">
-<p><a href="https://github.com/shinchanOP"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinchanOP&theme=blue-green" alt="Top Langs"></a></p></div>  
+<p><a href="https://github.com/shinchanOP"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinchanOP&theme=blue-green&count_private=true" alt="Top Langs"></a></p></div>  
 
 ---
 
