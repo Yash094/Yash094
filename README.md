@@ -11,6 +11,7 @@
 <img align="left" alt="mongodb" width="30px" src="https://i.imgur.com/BYdgNwt.png" />  
 <img align="left" alt="python" width="30px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true" />  
 <img align="left" alt="HEROKU" width="30px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"/>  
+<img align="left" alt="html" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="html" width="30px" src="https://i.imgur.com/PZ44WAF_d.webp?maxwidth=640&shape=thumb&fidelity=medium" /> <img align="left" alt="css" width="26px" src="https://i.imgur.com/4eIE4kN_d.webp?maxwidth=640&shape=thumb&fidelity=medium" /> <br />
 
 ---
