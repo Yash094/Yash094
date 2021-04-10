@@ -15,7 +15,7 @@
 <img align="left" alt="html" width="30px" src="https://i.imgur.com/PZ44WAF_d.webp?maxwidth=640&shape=thumb&fidelity=medium" /> <img align="left" alt="css" width="26px" src="https://i.imgur.com/4eIE4kN_d.webp?maxwidth=640&shape=thumb&fidelity=medium" /> <br />
 
 ---
-## My Bots 
+## My Projects 
 <p align="center">
 
 <a href="https://discordbotlist.com/bots/aztex">
@@ -54,7 +54,7 @@
 ---
 
 
-## My Projects  
+## Open Source   
 
 <div align="center">
 <p><a href="https://github.com/shinchanOP/memer-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shinchanOP&repo=memer-api" alt="Memer Api" /></a>
