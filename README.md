@@ -4,14 +4,14 @@
 
 ## Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
-<img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
-<img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
-<img align="left" alt="node.js" width="26px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /> 
-<img align="left" alt="mongodb" width="26px" src="https://i.imgur.com/BYdgNwt.png" />  
-<img align="left" alt="python" width="26px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true" />  
-<img align="left" alt="HEROKU" width="26px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"/>  
-<img align="left" alt="html" width="26px" src="https://i.imgur.com/PZ44WAF_d.webp?maxwidth=640&shape=thumb&fidelity=medium" /> <img align="left" alt="css" width="26px" src="https://i.imgur.com/4eIE4kN_d.webp?maxwidth=640&shape=thumb&fidelity=medium" /> <br />
+<img align="left" alt="Visual Studio Code" width="30px" src="https://i.imgur.com/LwSdAlE.png" />
+<img align="left" alt="discord.js" width="30px" src="https://i.imgur.com/SI1DZf3.png" />
+<img align="left" alt="js" width="30px" src="https://i.imgur.com/3u1wzwE.png" />
+<img align="left" alt="node.js" width="30px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /> 
+<img align="left" alt="mongodb" width="30px" src="https://i.imgur.com/BYdgNwt.png" />  
+<img align="left" alt="python" width="30px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true" />  
+<img align="left" alt="HEROKU" width="30px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"/>  
+<img align="left" alt="html" width="30px" src="https://i.imgur.com/PZ44WAF_d.webp?maxwidth=640&shape=thumb&fidelity=medium" /> <img align="left" alt="css" width="26px" src="https://i.imgur.com/4eIE4kN_d.webp?maxwidth=640&shape=thumb&fidelity=medium" /> <br />
 
 ---
 ## My Bots 
