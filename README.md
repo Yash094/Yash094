@@ -46,13 +46,12 @@
 <a href="https://github.com/shinchanOP/discord-audit-log-webhook">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=discord-audit-log-webhook" />
 </a>
-<a href="https://github.com/shinchanOP/Slash-cmd-bot">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shinchanOP&repo=Slash-cmd-bot" />
-</a>
 <a href="https://github.com/shinchanOP/example-bot-memer-api">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shinchanOP&repo=example-bot-memer-api" />
 </a>
-
+<a href="https://github.com/shinchanOP/Slash-cmd-bot">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shinchanOP&repo=Slash-cmd-bot" />
+</a>
 
 
 
