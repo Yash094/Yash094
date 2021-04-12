@@ -45,7 +45,7 @@
 ---
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shinchanOP&show_icons=true&hide=stars&count_private=true&theme=blue-green" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shinchanOP&show_icons=true&count_private=true&theme=blue-green" align="center" /></div>  
 
 <br/>  
 <div align="center">
