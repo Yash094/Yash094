@@ -57,11 +57,11 @@
 ## Open Source   
 
 <div align="center">
-<p><a href="https://github.com/shinchanOP/memer-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shinchanOP&repo=memer-api" alt="Memer Api" /></a>
+<p><a href="https://github.com/shinchanOP/memer-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Memer-Api&repo=memer-api" alt="Memer Api" /></a>
    
 <a href="https://github.com/shinchanOP/discord-audit-log-webhook"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shinchanOP&repo=discord-audit-log-webhook" alt="discord-audit-log-webhook" /></a>
    
-<a href="https://github.com/shinchanOP/example-bot-memer-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shinchanOP&repo=example-bot-memer-api" alt="shinchanOP" /></a>
+<a href="https://github.com/shinchanOP/example-bot-memer-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Memer-Api&repo=example-bot-memer-api" alt="shinchanOP" /></a>
 
 <a href="https://github.com/shinchanOP/Slash-cmd-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shinchanOP&repo=Slash-cmd-bot" alt="lash-cmd-bot" /></a>
 
