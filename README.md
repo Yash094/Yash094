@@ -37,7 +37,7 @@
    <a href="https://www.npmjs.com/package/memer-api">
    <img src="https://authy.com/wp-content/uploads/npm-logo.png" alt="npm package" width="80"/>
    </a>
-   <a href="https://discord.gg/fdF3HcJ">
+   <a href="https://discord.gg/emD44ZJaSA">
     <img src="https://www.freepnglogos.com/uploads/discord-logo-png/seven-kingdoms-9.png" alt="Discord" width="80"/>
   </a>
 </p>
