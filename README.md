@@ -1,4 +1,4 @@
-## HELLO, I AM YASH A.K.A SHINCHAN
+## HELLO, I AM YASH 
 
 ---
 
