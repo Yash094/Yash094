@@ -45,11 +45,11 @@
 ---
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shinchanOP&show_icons=true&count_private=true&theme=blue-green" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Yash094&show_icons=true&count_private=true&theme=blue-green" align="center" /></div>  
 
 <br/>  
 <div align="center">
-<p><a href="https://github.com/shinchanOP"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinchanOP&theme=blue-green&count_private=true" alt="Top Langs"></a></p></div>  
+<p><a href="https://github.com/shinchanOP"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash094&theme=blue-green&count_private=true" alt="Top Langs"></a></p></div>  
 
 ---
 
