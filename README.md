@@ -60,11 +60,12 @@
 <p><a href="https://github.com/shinchanOP/memer-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yash094&repo=memer-api" alt="Memer Api" /></a>
    
 <a href="https://github.com/shinchanOP/discord-audit-log-webhook"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yash094&repo=discord-audit-log-webhook" alt="discord-audit-log-webhook" /></a>
+
+<a href="https://github.com/Yash094/React-Chat-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yash094&repo=React-Chat-App" alt="react-chat-app" /></a>
    
 <a href="https://github.com/shinchanOP/example-bot-memer-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Memer-Api&repo=example-bot-memer-api" alt="shinchanOP" /></a>
 
 <a href="https://github.com/shinchanOP/Slash-cmd-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yash094&repo=Slash-cmd-bot" alt="lash-cmd-bot" /></a>
-
 </div>  
 
 ---
