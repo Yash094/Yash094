@@ -65,6 +65,8 @@
    
 <a href="https://github.com/shinchanOP/example-bot-memer-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Memer-Api&repo=example-bot-memer-api" alt="shinchanOP" /></a>
 
+<a href="https://github.com/Yash094/Discord-Dashboard-Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yash094&repo=Discord-Dashboard-Bot" alt="shinchanOP" /></a>
+   
 <a href="https://github.com/shinchanOP/Slash-cmd-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yash094&repo=Slash-cmd-bot" alt="lash-cmd-bot" /></a>
 </div>  
 
