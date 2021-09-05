@@ -22,7 +22,6 @@
 
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Yash094/Yash094/main/5eKX.gif" />
   
-### 👨‍💻 Languages and Tools
 
 <br />
 
