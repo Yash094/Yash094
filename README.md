@@ -1,77 +1,57 @@
-## HELLO, I AM YASH 
-
-
----
-
-## Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="30px" src="https://i.imgur.com/LwSdAlE.png" />
-<img align="left" alt="discord.js" width="30px" src="https://i.imgur.com/SI1DZf3.png" />
-<img align="left" alt="js" width="30px" src="https://i.imgur.com/3u1wzwE.png" />
-<img align="left" alt="node.js" width="30px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /> 
-<img align="left" alt="mongodb" width="30px" src="https://i.imgur.com/BYdgNwt.png" />  
-<img align="left" alt="python" width="30px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true" />  
-<img align="left" alt="HEROKU" width="30px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"/>  
-<img align="left" alt="html" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="html" width="30px" src="https://i.imgur.com/PZ44WAF_d.webp?maxwidth=640&shape=thumb&fidelity=medium" /> <img align="left" alt="css" width="26px" src="https://i.imgur.com/4eIE4kN_d.webp?maxwidth=640&shape=thumb&fidelity=medium" /> <br />
-
----
-## My Projects 
 <p align="center">
-
-<a href="https://discord.com/oauth2/authorize?client_id=687257316151656485&permissions=8&scope=bot">
-
-   <img src="https://media.discordapp.net/attachments/800639249334140969/830319603368329246/a3c91838a805920c7e843e8449532295.png?width=396&height=396" alt="Aztex Bot" width="80"/>
-
-   </a>
-   
- <a href="https://discord.com/oauth2/authorize?client_id=677196440296095773&permissions=8&scope=bot">
-
-   <img src="https://media.discordapp.net/attachments/800639249334140969/830319173577080862/20210313_170823.jpg?width=396&height=396" alt="Vibe Bot" width="80"/>
-
-   </a>
-    <a href="https://discord.com/api/oauth2/authorize?client_id=830476826413498478&permissions=8&scope=bot%20applications.commands">
-
-   <img src="https://media.discordapp.net/attachments/800639249334140969/829344825185796116/2-2.png?width=396&height=396" alt="Memer Api" width="80"/>
- 
-   </a>
-   <a href="https://www.npmjs.com/package/memer-api">
-   <img src="https://authy.com/wp-content/uploads/npm-logo.png" alt="npm package" width="80"/>
-   </a>
-   <a href="https://discord.gg/emD44ZJaSA">
-    <img src="https://www.freepnglogos.com/uploads/discord-logo-png/seven-kingdoms-9.png" alt="Discord" width="80"/>
-  </a>
+  <img align="center" alt="GIF" src="https://raw.githubusercontent.com/Yash094/Yash094/main/5eKX.gif" height="400px"/>
+</p>
+<p>
+  <h1 align="center"><b>Hello there, I'm Yash!</b></h1>
 </p>
 
----
+<p>
+  <h4 align="center"><b>"How you look at it is pretty much how you'll see it"</b></h4>
+  
+</p>
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Yash094&show_icons=true&count_private=true&theme=blue-green" align="center" /></div>  
+<p align="center">
+    <img align="center" alt="visitors" src="https://badges.pufler.dev/visits/Yash094/Yash094?style=for-the-badge" />
+</p>
 
+
+<p align="center">
+<a href="https://yashjoisar.me"><img align="center" alt="website" src="https://img.shields.io/badge/yashjoisar.me-4BB749?style=for-the-badge&logo=privateinternetaccess&logoColor=white" /></a>
+<a href="https://memer-api.live/discord"><img align="center" alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://www.instagram.com/yash_joisar"><img align="center" alt="discord" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:hello@yashjoisar.me"><img align="center" alt="discord" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Yash094"><img align="center" alt="discord" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+
+</p>
+<br>
+
+
+<h2 align="center">My Skills</h2>
+<p align="center">
+<img align="center" alt="discord" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img align="center" alt="discord" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="center" alt="discord" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="center" alt="discord" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img align="center" alt="discord" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+<img align="center" alt="discord" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  
 <br/>  
-<div align="center">
-<p><a href="https://github.com/shinchanOP"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash094&theme=blue-green&count_private=true" alt="Top Langs"></a></p></div>  
+<img align="center" alt="discord" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img align="center" alt="discord" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img align="center" alt="discord" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img align="center" alt="discord" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img align="center" alt="discord" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img align="center" alt="discord" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+</br>
 
----
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yash094&show_icons=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Yash's Github Stats">
+</p>
 
 
-## Open Source   
-
-<div align="center">
-<p><a href="https://github.com/shinchanOP/memer-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yash094&repo=memer-api" alt="Memer Api" /></a>
-   
-<a href="https://github.com/Yash094/Mongo-Eco"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yash094&repo=Mongo-Eco" alt="Mongo-Eco" /></a>
-   
-<a href="https://github.com/shinchanOP/discord-audit-log-webhook"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yash094&repo=discord-audit-log-webhook" alt="discord-audit-log-webhook" /></a>
-
-<a href="https://github.com/Yash094/React-Chat-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yash094&repo=React-Chat-App" alt="react-chat-app" /></a>
-   
-<a href="https://github.com/Yash094/MEME-BOT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yash094&repo=MEME-BOT" alt="shinchanOP" /></a>
-
-<a href="https://github.com/Yash094/Discord-Dashboard-Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yash094&repo=Discord-Dashboard-Bot" alt="shinchanOP" /></a>
-   
-<a href="https://github.com/shinchanOP/Slash-cmd-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yash094&repo=Slash-cmd-bot" alt="lash-cmd-bot" /></a>
-</div>  
-
----
-
+<h2 align="center"> Here A Meme: Refresh to get a new one!</h2>
+<p align="center"> 
+  <img height="400" align="center" src="https://memer-api.live/randommeme"
+</p>
