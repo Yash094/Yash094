@@ -14,13 +14,16 @@
     <img align="center" alt="visitors" src="https://badges.pufler.dev/visits/Yash094/Yash094?style=for-the-badge" />
 </p>
 
+<p align="center">
+<a align="center" href='https://www.buymeacoffee.com/memerapi' target='_blank'><img align="center" height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' border='0' alt='Buy Me a Coffee' /></a>
+</p>
 
 <p align="center">
 <a href="https://yashjoisar.me"><img align="center" alt="website" src="https://img.shields.io/badge/yashjoisar.me-4BB749?style=for-the-badge&logo=privateinternetaccess&logoColor=white" /></a>
 <a href="https://memer-api.live/discord"><img align="center" alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="https://www.instagram.com/yash_joisar"><img align="center" alt="discord" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="mailto:hello@yashjoisar.me"><img align="center" alt="discord" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Yash094"><img align="center" alt="discord" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+ <a href="https://github.com/Yash094"><img align="center" alt="discord" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 
 </p>
