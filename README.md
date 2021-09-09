@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-<a align="center" href='https://www.buymeacoffee.com/memerapi' target='_blank'><img align="center" height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' border='0' alt='Buy Me a Coffee' /></a>
+  <a href="https://www.buymeacoffee.com/memerapi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="45" width="170"></a>
 </p>
 
 <p align="center">
