@@ -1,6 +1,8 @@
 <p align="center">
   <img align="center" alt="GIF" src="https://raw.githubusercontent.com/Yash094/Yash094/main/5eKX.gif" height="400px"/>
 </p>
+
+
 <p>
   <h1 align="center"><b>Hello there, I'm Yash!</b></h1>
 </p>
@@ -12,11 +14,10 @@
 
 <p align="center">
     <img align="center" alt="visitors" src="https://badges.pufler.dev/visits/Yash094/Yash094?style=for-the-badge" />
+  <a href="https://www.fiverr.com/yash094/create-a-discord-bot"><img align="center" alt="website" src="https://img.shields.io/badge/Hire-Me-4BB749?style=for-the-badge" /></a>
+
 </p>
 
-<p align="center">
-  <a href='https://ko-fi.com/Yash094' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
-    </p>
 
 <p align="center">
 <a href="https://yashjoisar.me"><img align="center" alt="website" src="https://img.shields.io/badge/yashjoisar.me-4BB749?style=for-the-badge&logo=privateinternetaccess&logoColor=white" /></a>
