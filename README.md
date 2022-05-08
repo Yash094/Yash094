@@ -19,12 +19,6 @@
 </p>
 
 
-<p align="center">
-<a href="https://yashjoisar.me"><img align="center" alt="website" src="https://img.shields.io/badge/yashjoisar.me-4BB749?style=for-the-badge&logo=privateinternetaccess&logoColor=white" /></a>
-<a href="https://memer-api.live/discord"><img align="center" alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="https://www.instagram.com/yash_joisar"><img align="center" alt="discord" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:hello@yashjoisar.me"><img align="center" alt="discord" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
- <a href="https://github.com/Yash094"><img align="center" alt="discord" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 
 </p>
