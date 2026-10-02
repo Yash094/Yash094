@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="Yash Joisar — a developer who loves to create new tools">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#e8e6df" stroke-opacity=".04" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow" cx="78%" cy="40%" r="45%">
+      <stop offset="0" stop-color="#c6ff3d" stop-opacity=".14"/>
+      <stop offset="1" stop-color="#c6ff3d" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      text{font-family:'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+      .dim{fill:#8a8d94}
+      .fg{fill:#e8e6df}
+      .lime{fill:#c6ff3d}
+      .blink{animation:blink 1s steps(1) infinite}
+      .pulse{animation:pulse 1.6s ease-in-out infinite}
+      @keyframes blink{50%{opacity:0}}
+      @keyframes pulse{50%{opacity:.25}}
+    </style>
+  </defs>
+
+  <rect width="1200" height="400" rx="14" fill="#0e0f11"/>
+  <rect width="1200" height="400" rx="14" fill="url(#grid)"/>
+  <rect width="1200" height="400" rx="14" fill="url(#glow)"/>
+
+  <!-- top bar -->
+  <circle class="lime pulse" cx="48" cy="44" r="5"/>
+  <text x="64" y="49" font-size="15" font-weight="700" class="fg">yash-os</text>
+  <text x="1152" y="49" font-size="14" text-anchor="end" class="dim">BOM · UTC+5:30</text>
+  <line x1="32" y1="72" x2="1168" y2="72" stroke="#e8e6df" stroke-opacity=".08"/>
+
+  <!-- headline -->
+  <text x="64" y="150" font-size="20" class="dim"><tspan class="lime">//</tspan> hello world, i'm</text>
+  <text x="60" y="232" font-size="78" font-weight="700" class="fg" letter-spacing="-2">Yash Joisar<tspan class="lime">.</tspan></text>
+  <text x="64" y="282" font-size="22" class="dim">a developer who loves to create new tools</text>
+
+  <!-- terminal card -->
+  <g transform="translate(760 118)">
+    <rect width="380" height="200" rx="10" fill="#141619" stroke="#e8e6df" stroke-opacity=".1"/>
+    <circle cx="20" cy="20" r="5" fill="#ff5f57"/>
+    <circle cx="38" cy="20" r="5" fill="#febc2e"/>
+    <circle cx="56" cy="20" r="5" fill="#28c840"/>
+    <text x="360" y="24" font-size="11" text-anchor="end" class="dim">~/yash</text>
+    <g font-size="13">
+      <text x="20" y="64"><tspan class="lime">~ %</tspan><tspan class="fg"> whoami</tspan></text>
+      <text x="20" y="86" class="dim">integration engineer @ thirdweb</text>
+      <text x="20" y="116"><tspan class="lime">~ %</tspan><tspan class="fg"> cat stack.txt</tspan></text>
+      <text x="20" y="138" class="dim">web3 · infra · ai</text>
+      <text x="20" y="168"><tspan class="lime">~ %</tspan><tspan class="fg"> ./ship-it</tspan><tspan class="lime blink"> ▋</tspan></text>
+    </g>
+  </g>
+
+  <!-- footer tags -->
+  <text x="64" y="356" font-size="13" class="dim">gm · ship it · &lt;/&gt; · x402 · wagmi · works on my machine</text>
+  <text x="1152" y="356" font-size="13" text-anchor="end" class="lime">Mumbai, IN</text>
+</svg>
